@@ -1,10 +1,10 @@
 //= parts/jquery.js
 ;
-//= parts/_RezigTmpl.js
+//= parts/RezigTmpl.js
 ;
-//= parts/_owl.carousel.js
+//= parts/owl.carousel.js
 ;
-//= parts/_masonry.pkgd.js
+//= parts/masonry.pkgd.js
 ;
 
 $(document).ready(function () {
