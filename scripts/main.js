@@ -1,4 +1,4 @@
-//= parts/_jquery.js
+//= parts/jquery.js
 ;
 //= parts/_RezigTmpl.js
 ;
